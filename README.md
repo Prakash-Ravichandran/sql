@@ -21,3 +21,13 @@ SHOW COLUMNS FROM <tablename>
 
 DESC <tablename>
 ```
+
+## Drop tables
+
+```sql
+
+DROP TABLE <table-name>;
+
+DROP TABLE cats;
+
+```
