@@ -10,3 +10,14 @@ CREATE TABLE dogs (
 )
 
 ```
+
+## How do we know the row/columns affected ?
+
+```sql
+
+SHOW COLUMNS FROM <tablename>
+
+(or)
+
+DESC <tablename>
+```
