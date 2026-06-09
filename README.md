@@ -31,3 +31,9 @@ DROP TABLE <table-name>;
 DROP TABLE cats;
 
 ```
+
+## Exercise - create table pastries
+
+```sql
+CREATE TABLE pastries ( name VARCHAR(50), quantity INT);
+```
